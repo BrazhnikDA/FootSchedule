@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Dima/AndroidStudioProjects/FootSchedule/app/src/main/res/layout/activity_loader.xml" value="0.5546875" />
+        <entry key="..\:/Users/Dima/AndroidStudioProjects/FootSchedule/app/src/main/res/layout/activity_main.xml" value="0.4466666666666667" />
+        <entry key="..\:/Users/Dima/AndroidStudioProjects/FootSchedule/app/src/main/res/layout/activity_search.xml" value="0.5546875" />
+        <entry key="..\:/Users/Dima/AndroidStudioProjects/FootSchedule/app/src/main/res/layout/item_recycler_view_choose_leagues.xml" value="0.5546875" />
+        <entry key="..\:/Users/Dima/AndroidStudioProjects/FootSchedule/app/src/main/res/layout/item_recycler_view_group_by_leagues.xml" value="0.4466666666666667" />
+        <entry key="..\:/Users/Dima/AndroidStudioProjects/FootSchedule/app/src/main/res/layout/item_recycler_view_schedule_of_matches.xml" value="0.4466666666666667" />
+        <entry key="..\:/Users/Dima/AndroidStudioProjects/FootSchedule/app/src/main/res/layout/item_recycler_view_shedule_of_matches.xml" value="0.416015625" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
